@@ -1,6 +1,6 @@
 # Password Locker
 
-## Built By [Mary Ng'ang'a](https://github.com/marynganga/)
+## Built By [Isaac Waithaka](https://github.com/Isaac-waithaka/)
 
 ## Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
@@ -35,7 +35,7 @@ As a user I would like:
 
 ### Cloning
 * In your terminal:
-        
+
         $ git clone https://github.com/marynganga/Password-Locker/
         $ cd Password-Locker
 
@@ -44,15 +44,14 @@ As a user I would like:
 
         $ chmod +x password_locker.py
         $ ./password_locker.py
-        
+
 ## Testing the Application
 * To run the tests for the class file:
 
         $ python3.6 user_credentials_test.py
-        
+
 ## Technologies Used
 * Python3.6
 
 ## License
 MIT &copy;2017 [Mary Ng'ang'a](https://github.com/marynganga/)
-
