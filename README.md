@@ -28,7 +28,7 @@ As a user I would like:
 
 ## SetUp / Installation Requirements
 ### Prerequisites
-* python3.6
+* python3.9
 * pip
 * pyperclip
 * xclip
@@ -54,4 +54,4 @@ As a user I would like:
 * Python3.9
 
 ## License
-MIT &copy;2020 [Mary Ng'ang'a](https://github.com/marynganga/)
+MIT &copy;2020 [Isaac-waithaka](https://github.com/Isaac-waithaka/)
