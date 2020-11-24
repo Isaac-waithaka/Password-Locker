@@ -51,7 +51,7 @@ As a user I would like:
         $ python3.9 user_credentials_test.py
 
 ## Technologies Used
-* Python3.6
+* Python3.9
 
 ## License
-MIT &copy;2017 [Mary Ng'ang'a](https://github.com/marynganga/)
+MIT &copy;2020 [Mary Ng'ang'a](https://github.com/marynganga/)
