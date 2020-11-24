@@ -48,7 +48,7 @@ def display_credentials(user_name):
 	Function to display credentials saved by a user
 	'''
 	return Credential.display_credentials(user_name)
-	
+
 def copy_credential(site_name):
 	'''
 	Function to copy a credentials details to the clipboard
@@ -129,7 +129,7 @@ def main():
 							print(' ')
 							for credential in display_credentials(user_name):
 								print(f'Site Name: {credential.site_name} - Account Name: {credential.account_name} - Password: {credential.password}')
-							print(' ')	
+							print(' ')
 						else:
 							print(' ')
 							print("You don't seem to have any credentials saved yet")
@@ -142,15 +142,15 @@ def main():
 					else:
 						print('Oops! Wrong option entered. Try again.')
 
-			else: 
+			else:
 				print(' ')
-				print('Oops! Wrong details entered. Try again or Create an Account.')		
-		
+				print('Oops! Wrong details entered. Try again or Create an Account.')
+
 		else:
 			print("-"*60)
 			print(' ')
 			print('Oops! Wrong option entered. Try again.')
-				
+
 
 
 
@@ -159,4 +159,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
