@@ -36,7 +36,7 @@ As a user I would like:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/marynganga/Password-Locker/
+        $ git clone https://github.com/Isaac-waithaka/Password-Locker/
         $ cd Password-Locker
 
 ## Running the Application
